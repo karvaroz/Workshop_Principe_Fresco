@@ -7,3 +7,9 @@
   scroll-behavior: smooth;
   font-family: "Poppins", sans-serif;
 }
+
+
+p.youmayPrice{
+  text-align: center;
+  font-weight: bold;
+}

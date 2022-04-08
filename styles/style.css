@@ -8,6 +8,7 @@
   font-family: "Poppins", sans-serif;
   
 }
+<<<<<<< HEAD
 header{
 display: flex;
 flex-direction: row;
@@ -28,3 +29,11 @@ section img{
   object-fit: cover;
 }
 
+=======
+
+
+p.youmayPrice{
+  text-align: center;
+  font-weight: bold;
+}
+>>>>>>> 8d21ff18a533abea5f40fd868e91c32d4011adfd

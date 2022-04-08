@@ -6,7 +6,37 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
   font-family: "Poppins", sans-serif;
+  
 }
+header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 25px 25px;
+}
+.h-links a{
+  text-decoration: none;
+  color: black;
+
+}
+footer{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background-color: #1D1D1D;
+  height: 180px;
+  align-items: center;
+}
+.img-rey{
+  width: 1400px;
+}
+.img-rey img{
+  margin-bottom: 50px;
+  width: 1400px;
+}
+
+
 
 
 p.youmayPrice{

@@ -6,4 +6,25 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
   font-family: "Poppins", sans-serif;
+  
 }
+header{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 25px 25px;
+}
+.h-links a{
+  text-decoration: none;
+  color: black;
+
+}
+footer{
+  background-color: black;
+  height: 150px;
+}
+section img{
+  object-fit: cover;
+}
+

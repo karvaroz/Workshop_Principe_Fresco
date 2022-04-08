@@ -22,12 +22,16 @@ footer {
   object-fit: cover;
 }
 
-
-.list-group {
-  gap: 15px;
+.list-group{
+  width: 100%;
   display: flex;
-  margin-bottom: 10px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
 }
+
 
 #imgWill{
   margin-top: 20%;

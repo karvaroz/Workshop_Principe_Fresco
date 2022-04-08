@@ -17,7 +17,7 @@ const traerLocalStorage = () => {
                     <p class="card-text">${description}</p>
                     <p class="card-text"><small class="text-muted">${type}</small></p>
                     <p class="card-text"><small class="text-muted">${category}</small></p>
-                    <butto class="btn btn-primary">Return</button>
+                    <button class="btn btn-primary">Return</button>
                 </div>
             </div>
         </div>

@@ -24,12 +24,16 @@ footer{
   display: flex;
   flex-direction: column;
   align-content: center;
-  background-color: black;
+  background-color: #1D1D1D;
   height: 180px;
   align-items: center;
 }
-section img{
-  object-fit: cover;
+.img-rey{
+  width: 1400px;
+}
+.img-rey img{
+  margin-bottom: 50px;
+  width: 1400px;
 }
 
 

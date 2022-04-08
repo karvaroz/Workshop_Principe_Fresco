@@ -1,0 +1,40 @@
+{
+    "clothing": [
+        {
+            "id": 1,
+            "name": "CAMISETA NEGRA",
+            "price": 48000,
+            "description:": "CAMISETA OVERSIZE NEGRO TEXTO NONSTANDARD",
+            "type": "CAMISETAS",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1649446123/workshop_principe_fresco/camiseta-1_xmykmk.jpg",
+            "category": "MEN"
+        },
+        {
+            "id": 2,
+            "name": "CAMISETA ROSADA",
+            "price": 42000,
+            "description:": "CAMISETA BOX FIT ROSADO TEXTO NOMAD",
+            "type": "CAMISETAS",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1649446123/workshop_principe_fresco/camiseta-2_ofuu5b.jpg",
+            "category": "MEN"
+        },
+        {
+            "id": 3,
+            "name": "JEAN NEGRO",
+            "price": 92000,
+            "description:": "JEANS SKINNY FIT NEGRO RASPONES RXS",
+            "type": "JEAN",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1649446123/workshop_principe_fresco/jean-1_fatbgx.jpg",
+            "category": "MEN"
+        },
+        {
+            "id": 4,
+            "name": "PANTALON CAFE",
+            "price": 112000,
+            "description:": "PANTALÓN CARGO CAFE BÁSICO RXS",
+            "type": "PANTALON",
+            "image": "https://res.cloudinary.com/karvaroz/image/upload/v1649446123/workshop_principe_fresco/jean-2_hv5mfl.jpg",
+            "category": "MEN"
+        }
+    ]
+}

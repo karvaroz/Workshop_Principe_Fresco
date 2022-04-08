@@ -29,3 +29,15 @@ footer {
   margin-bottom: 10px;
 }
 
+#imgWill{
+  margin-top: 20%;
+  margin-bottom: 10%;
+  width:100%;
+}
+
+
+footer div.container{
+max-width: 100%;
+height: auto;
+
+}

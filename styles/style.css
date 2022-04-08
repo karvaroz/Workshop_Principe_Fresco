@@ -8,8 +8,24 @@
   font-family: "Poppins", sans-serif;
 }
 
-
-p.youmayPrice{
-  text-align: center;
-  font-weight: bold;
+footer {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background-color: black;
+  align-items: center;
 }
+
+.img-footer{
+  width: 100%;
+  object-fit: cover;
+}
+
+
+.list-group {
+  gap: 15px;
+  display: flex;
+  margin-bottom: 10px;
+}
+

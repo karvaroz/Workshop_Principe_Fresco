@@ -2,9 +2,8 @@ const listar = document.getElementById("list-group");
 
 const traerLocalStorage = () => {
   const detalle = JSON.parse(localStorage.getItem("Detalle"));
-  console.log(detalle);
 
-  const { id, name, price, description, type, image, category } = producto;
+  const { id, name, price, description, type, image, category } = detalle;
   listar.innerHTML += `
     <div class="card mb-3">
         <div class="row no-gutters">
@@ -32,6 +31,6 @@ document.addEventListener("DOMContentLoaded", traerLocalStorage);
 listar.addEventListener("click", (e) => {
   console.log(e);
   if (e.target.classList.contains("btnReturn")) {
-    window.location.href = "./pages/detalle.html";
+    window.location.href = "index.html";
   }
 });

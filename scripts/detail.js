@@ -2,7 +2,7 @@ const listar = document.getElementById("list-group");
 
 const traerLocalStorage = () => {
   const detalle = JSON.parse(localStorage.getItem("Detalle"));
-
+  
   const { id, name, price, description, type, image, category } = detalle;
   listar.innerHTML += `
     <div class="card mb-3">
